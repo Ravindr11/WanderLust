@@ -130,13 +130,6 @@ Follow these steps to set up and run the project locally:
 
 Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
 
-## Author
-
-Mohan Singh \
-Email: duhanmohan9@gmail.com \
-LinkedIn : <a href="https://www.linkedin.com/in/duhanmohan/">duhanmohan</a>
----
-
 Live Website Link
 [Sair - Beyond Boundaries](https://sair.onrender.com/listings)
 ---
